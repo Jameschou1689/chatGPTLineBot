@@ -19,7 +19,7 @@ namespace isRock.Template
 
             // Request headers.
             client.DefaultRequestHeaders.Add(
-                "Authorization", "Bearer _______openai_________key_________");
+                "Authorization", "Bearer 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");
 
             var JsonString = @"
             {
